@@ -1,5 +1,27 @@
-{
-    "id": "1234",
-    "name": "MacBook Pro 15",
-    "price": 30000000
-}
+[
+    {
+        "id": "1",
+        "name": "MacBook Pro 15",
+        "price": 30000000
+    },
+    {
+        "id": "2",
+        "name": "Asus Vivobook",
+        "price": 30000000
+    },
+    {
+        "id": "3",
+        "name": "Acer Top Cer",
+        "price": 30000000
+    },
+    {
+        "id": "4",
+        "name": "Lenovo A5",
+        "price": 30000000
+    },
+    {
+        "id": "5",
+        "name": "HP Gaming",
+        "price": 30000000
+    }
+]
